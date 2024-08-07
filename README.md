@@ -15,4 +15,4 @@ Solutions are on CPP
 ### 56. Linked List Cycle
 **Problem:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-**Solution:** [View Solution](./Linked_List_Cycle.md)
+**Solution:** [View Solution](./Linked_List_Cycle.cpp)
