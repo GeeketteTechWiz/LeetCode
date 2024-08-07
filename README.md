@@ -9,3 +9,10 @@ Solutions are on CPP
 ## Table of Contents
 
 1. [Linked List Cycle](141-Linked-List-Cycle) 
+
+## Problem List
+
+### 56. Linked List Cycle
+**Problem:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+**Solution:** [View Solution](./Linked_List_Cycle.md)
