@@ -8,4 +8,4 @@ Solutions are on CPP
 
 ## Table of Contents
 
-1. [Linked List Cycle](141) 
+1. [Linked List Cycle](141-Linked-List-Cycle) 
